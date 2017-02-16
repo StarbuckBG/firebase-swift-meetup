@@ -1,0 +1,6 @@
+framework module Pods_MeetupFirebase {
+  umbrella header "Pods-MeetupFirebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
